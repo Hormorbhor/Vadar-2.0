@@ -1,0 +1,1217 @@
+2025-07-15 14:31:55,690 - INFO - 🚀 Starting autonomous trading agent (interval: 30 minutes)
+2025-07-15 14:31:55,690 - INFO - 
+==================================================
+2025-07-15 14:31:55,691 - INFO - 🔄 Trading Cycle #1
+2025-07-15 14:31:55,691 - INFO - ==================================================
+2025-07-15 14:31:55,691 - INFO - 🤖 Starting trading cycle...
+2025-07-15 14:31:57,831 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 14:32:01,983 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 14:32:05,570 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 14:32:13,952 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 14:32:18,846 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 14:32:19,513 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-15 14:32:19,513 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-15 15:05:39,630 - INFO - 
+==================================================
+2025-07-15 15:05:39,676 - INFO - 🔄 Trading Cycle #2
+2025-07-15 15:05:39,678 - INFO - ==================================================
+2025-07-15 15:05:39,680 - INFO - 🤖 Starting trading cycle...
+2025-07-15 15:05:41,670 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 15:05:45,701 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 15:05:48,976 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 15:05:53,612 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 15:05:58,011 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 15:05:58,633 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-15 15:05:58,633 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-15 15:39:18,766 - INFO - 
+==================================================
+2025-07-15 15:39:18,797 - INFO - 🔄 Trading Cycle #3
+2025-07-15 15:39:18,798 - INFO - ==================================================
+2025-07-15 15:39:18,798 - INFO - 🤖 Starting trading cycle...
+2025-07-15 15:39:20,498 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 15:39:21,625 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 15:39:30,900 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 15:39:35,868 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 15:39:40,293 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 15:39:40,949 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-15 15:39:40,950 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-15 16:13:01,071 - INFO - 
+==================================================
+2025-07-15 16:13:01,102 - INFO - 🔄 Trading Cycle #4
+2025-07-15 16:13:01,103 - INFO - ==================================================
+2025-07-15 16:13:01,103 - INFO - 🤖 Starting trading cycle...
+2025-07-15 16:13:02,969 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 16:13:07,738 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 16:13:11,038 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 16:13:15,635 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 16:13:23,847 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 16:13:24,534 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-15 16:13:24,535 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-15 16:46:44,658 - INFO - 
+==================================================
+2025-07-15 16:46:44,703 - INFO - 🔄 Trading Cycle #5
+2025-07-15 16:46:44,704 - INFO - ==================================================
+2025-07-15 16:46:44,704 - INFO - 🤖 Starting trading cycle...
+2025-07-15 16:46:46,663 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 16:46:50,808 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 16:46:54,196 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 16:46:58,754 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 16:47:04,981 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 16:47:08,497 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-15 16:47:08,499 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-15 17:20:28,561 - INFO - 
+==================================================
+2025-07-15 17:20:28,570 - INFO - 🔄 Trading Cycle #6
+2025-07-15 17:20:28,571 - INFO - ==================================================
+2025-07-15 17:20:28,571 - INFO - 🤖 Starting trading cycle...
+2025-07-15 17:20:30,324 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 17:20:36,376 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 17:20:38,337 - ERROR - Market analysis error: float division by zero
+2025-07-15 17:20:39,614 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 17:20:44,364 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 17:20:49,313 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 17:20:49,349 - ERROR - Trading cycle error: An output parsing error occurred. In order to pass this error back to the agent and have it try again, pass `handle_parsing_errors=True` to the AgentExecutor. This is the error: Could not parse LLM output: `Here is the continuation:
+`
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-15 17:20:49,349 - INFO - Cycle result: ❌ Trading cycle failed: An output parsing error occurred. In order to pass this error back to the agent and have it try again, pass `handle_parsing_errors=True` to the AgentExecutor. This is the error: Could not parse LLM output: `Here is the continuation:
+`
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-15 17:20:49,349 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-15 18:04:09,681 - INFO - 
+==================================================
+2025-07-15 18:04:09,748 - INFO - 🔄 Trading Cycle #7
+2025-07-15 18:04:09,749 - INFO - ==================================================
+2025-07-15 18:04:09,749 - INFO - 🤖 Starting trading cycle...
+2025-07-15 18:04:11,529 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:04:14,067 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:04:15,848 - ERROR - Market analysis error: float division by zero
+2025-07-15 18:04:17,100 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:04:21,576 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:04:23,113 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:04:23,116 - ERROR - Trading cycle error: An output parsing error occurred. In order to pass this error back to the agent and have it try again, pass `handle_parsing_errors=True` to the AgentExecutor. This is the error: Could not parse LLM output: `Here is the continuation:
+`
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-15 18:04:23,116 - INFO - Cycle result: ❌ Trading cycle failed: An output parsing error occurred. In order to pass this error back to the agent and have it try again, pass `handle_parsing_errors=True` to the AgentExecutor. This is the error: Could not parse LLM output: `Here is the continuation:
+`
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-15 18:04:23,116 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-15 18:37:31,981 - INFO - 
+==================================================
+2025-07-15 18:37:32,031 - INFO - 🔄 Trading Cycle #8
+2025-07-15 18:37:32,034 - INFO - ==================================================
+2025-07-15 18:37:32,034 - INFO - 🤖 Starting trading cycle...
+2025-07-15 18:37:36,616 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:37:37,741 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:37:39,252 - ERROR - Market analysis error: float division by zero
+2025-07-15 18:37:40,680 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:37:45,145 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:38:00,646 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2025-07-15 18:38:00,915 - ERROR - Trading cycle error: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-15 18:38:00,915 - INFO - Cycle result: ❌ Trading cycle failed: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-15 18:38:00,915 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-15 19:10:28,257 - INFO - 
+==================================================
+2025-07-15 19:10:28,291 - INFO - 🔄 Trading Cycle #9
+2025-07-15 19:10:28,292 - INFO - ==================================================
+2025-07-15 19:10:28,292 - INFO - 🤖 Starting trading cycle...
+2025-07-15 19:10:29,351 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2025-07-15 19:10:29,597 - ERROR - Trading cycle error: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-15 19:10:29,598 - INFO - Cycle result: ❌ Trading cycle failed: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-15 19:10:29,598 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-15 19:40:30,318 - INFO - 
+==================================================
+2025-07-15 19:40:30,726 - INFO - 🔄 Trading Cycle #10
+2025-07-15 19:40:30,727 - INFO - ==================================================
+2025-07-15 19:40:30,727 - INFO - 🤖 Starting trading cycle...
+2025-07-15 19:40:33,213 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2025-07-15 19:40:33,218 - ERROR - Trading cycle error: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-15 19:40:33,219 - INFO - Cycle result: ❌ Trading cycle failed: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-15 19:40:33,219 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-15 20:10:34,429 - INFO - 
+==================================================
+2025-07-15 20:10:34,459 - INFO - 🔄 Trading Cycle #11
+2025-07-15 20:10:34,459 - INFO - ==================================================
+2025-07-15 20:10:34,460 - INFO - 🤖 Starting trading cycle...
+2025-07-15 20:10:44,637 - INFO - Retrying request to /openai/v1/chat/completions in 0.421433 seconds
+2025-07-15 20:10:55,108 - INFO - Retrying request to /openai/v1/chat/completions in 0.862523 seconds
+2025-07-15 20:11:06,027 - ERROR - Trading cycle error: Connection error.
+2025-07-15 20:11:06,029 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-15 20:11:06,029 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-15 20:41:05,848 - INFO - 
+==================================================
+2025-07-15 20:41:05,856 - INFO - 🔄 Trading Cycle #12
+2025-07-15 20:41:05,856 - INFO - ==================================================
+2025-07-15 20:41:05,856 - INFO - 🤖 Starting trading cycle...
+2025-07-15 20:41:15,924 - INFO - Retrying request to /openai/v1/chat/completions in 0.461944 seconds
+2025-07-15 20:41:26,462 - INFO - Retrying request to /openai/v1/chat/completions in 0.752549 seconds
+2025-07-15 20:41:37,238 - ERROR - Trading cycle error: Connection error.
+2025-07-15 20:41:37,239 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-15 20:41:37,239 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-15 21:11:37,104 - INFO - 
+==================================================
+2025-07-15 21:11:37,109 - INFO - 🔄 Trading Cycle #13
+2025-07-15 21:11:37,109 - INFO - ==================================================
+2025-07-15 21:11:37,110 - INFO - 🤖 Starting trading cycle...
+2025-07-15 21:11:47,142 - INFO - Retrying request to /openai/v1/chat/completions in 0.402915 seconds
+2025-07-15 21:11:57,559 - INFO - Retrying request to /openai/v1/chat/completions in 0.775503 seconds
+2025-07-15 21:12:08,354 - ERROR - Trading cycle error: Connection error.
+2025-07-15 21:12:08,354 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-15 21:12:08,354 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-15 21:42:08,235 - INFO - 
+==================================================
+2025-07-15 21:42:08,250 - INFO - 🔄 Trading Cycle #14
+2025-07-15 21:42:08,250 - INFO - ==================================================
+2025-07-15 21:42:08,250 - INFO - 🤖 Starting trading cycle...
+2025-07-15 21:42:18,340 - INFO - Retrying request to /openai/v1/chat/completions in 0.412839 seconds
+2025-07-15 21:42:28,815 - INFO - Retrying request to /openai/v1/chat/completions in 0.848235 seconds
+2025-07-15 21:42:39,713 - ERROR - Trading cycle error: Connection error.
+2025-07-15 21:42:39,714 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-15 21:42:39,714 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-15 22:12:39,611 - INFO - 
+==================================================
+2025-07-15 22:12:39,615 - INFO - 🔄 Trading Cycle #15
+2025-07-15 22:12:39,615 - INFO - ==================================================
+2025-07-15 22:12:39,615 - INFO - 🤖 Starting trading cycle...
+2025-07-15 22:12:49,655 - INFO - Retrying request to /openai/v1/chat/completions in 0.376517 seconds
+2025-07-15 22:13:00,055 - INFO - Retrying request to /openai/v1/chat/completions in 0.899689 seconds
+2025-07-15 22:13:10,974 - ERROR - Trading cycle error: Connection error.
+2025-07-15 22:13:10,974 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-15 22:13:10,974 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-15 22:43:10,863 - INFO - 
+==================================================
+2025-07-15 22:43:10,877 - INFO - 🔄 Trading Cycle #16
+2025-07-15 22:43:10,878 - INFO - ==================================================
+2025-07-15 22:43:10,879 - INFO - 🤖 Starting trading cycle...
+2025-07-15 22:43:20,916 - INFO - Retrying request to /openai/v1/chat/completions in 0.428721 seconds
+2025-07-15 22:43:31,385 - INFO - Retrying request to /openai/v1/chat/completions in 0.907646 seconds
+2025-07-15 22:43:42,320 - ERROR - Trading cycle error: Connection error.
+2025-07-15 22:43:42,321 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-15 22:43:42,321 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-15 23:13:42,245 - INFO - 
+==================================================
+2025-07-15 23:13:42,261 - INFO - 🔄 Trading Cycle #17
+2025-07-15 23:13:42,262 - INFO - ==================================================
+2025-07-15 23:13:42,262 - INFO - 🤖 Starting trading cycle...
+2025-07-15 23:13:52,340 - INFO - Retrying request to /openai/v1/chat/completions in 0.391714 seconds
+2025-07-15 23:14:02,755 - INFO - Retrying request to /openai/v1/chat/completions in 0.819435 seconds
+2025-07-15 23:14:13,602 - ERROR - Trading cycle error: Connection error.
+2025-07-15 23:14:13,603 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-15 23:14:13,603 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-15 23:44:13,476 - INFO - 
+==================================================
+2025-07-15 23:44:13,481 - INFO - 🔄 Trading Cycle #18
+2025-07-15 23:44:13,481 - INFO - ==================================================
+2025-07-15 23:44:13,481 - INFO - 🤖 Starting trading cycle...
+2025-07-15 23:44:23,522 - INFO - Retrying request to /openai/v1/chat/completions in 0.469855 seconds
+2025-07-15 23:44:34,021 - INFO - Retrying request to /openai/v1/chat/completions in 0.824974 seconds
+2025-07-15 23:44:45,937 - ERROR - Trading cycle error: Connection error.
+2025-07-15 23:44:45,937 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-15 23:44:45,937 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 00:14:45,826 - INFO - 
+==================================================
+2025-07-16 00:14:45,831 - INFO - 🔄 Trading Cycle #19
+2025-07-16 00:14:45,831 - INFO - ==================================================
+2025-07-16 00:14:45,831 - INFO - 🤖 Starting trading cycle...
+2025-07-16 00:14:55,862 - INFO - Retrying request to /openai/v1/chat/completions in 0.449366 seconds
+2025-07-16 00:15:06,326 - INFO - Retrying request to /openai/v1/chat/completions in 0.943186 seconds
+2025-07-16 00:15:17,278 - ERROR - Trading cycle error: Connection error.
+2025-07-16 00:15:17,279 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-16 00:15:17,279 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 00:45:17,172 - INFO - 
+==================================================
+2025-07-16 00:45:17,194 - INFO - 🔄 Trading Cycle #20
+2025-07-16 00:45:17,195 - INFO - ==================================================
+2025-07-16 00:45:17,195 - INFO - 🤖 Starting trading cycle...
+2025-07-16 00:45:27,261 - INFO - Retrying request to /openai/v1/chat/completions in 0.497349 seconds
+2025-07-16 00:45:37,780 - INFO - Retrying request to /openai/v1/chat/completions in 0.947866 seconds
+2025-07-16 00:45:48,785 - ERROR - Trading cycle error: Connection error.
+2025-07-16 00:45:48,785 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-16 00:45:48,785 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 01:15:48,637 - INFO - 
+==================================================
+2025-07-16 01:15:48,647 - INFO - 🔄 Trading Cycle #21
+2025-07-16 01:15:48,647 - INFO - ==================================================
+2025-07-16 01:15:48,647 - INFO - 🤖 Starting trading cycle...
+2025-07-16 01:15:58,693 - INFO - Retrying request to /openai/v1/chat/completions in 0.484282 seconds
+2025-07-16 01:16:09,210 - INFO - Retrying request to /openai/v1/chat/completions in 0.992904 seconds
+2025-07-16 01:16:20,225 - ERROR - Trading cycle error: Connection error.
+2025-07-16 01:16:20,226 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-16 01:16:20,226 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 01:46:20,081 - INFO - 
+==================================================
+2025-07-16 01:46:20,082 - INFO - 🔄 Trading Cycle #22
+2025-07-16 01:46:20,082 - INFO - ==================================================
+2025-07-16 01:46:20,082 - INFO - 🤖 Starting trading cycle...
+2025-07-16 01:46:30,109 - INFO - Retrying request to /openai/v1/chat/completions in 0.376639 seconds
+2025-07-16 01:46:40,501 - INFO - Retrying request to /openai/v1/chat/completions in 0.815651 seconds
+2025-07-16 01:46:51,337 - ERROR - Trading cycle error: Connection error.
+2025-07-16 01:46:51,337 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-16 01:46:51,337 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 02:16:51,207 - INFO - 
+==================================================
+2025-07-16 02:16:51,210 - INFO - 🔄 Trading Cycle #23
+2025-07-16 02:16:51,210 - INFO - ==================================================
+2025-07-16 02:16:51,210 - INFO - 🤖 Starting trading cycle...
+2025-07-16 02:17:01,255 - INFO - Retrying request to /openai/v1/chat/completions in 0.453219 seconds
+2025-07-16 02:17:11,725 - INFO - Retrying request to /openai/v1/chat/completions in 0.943614 seconds
+2025-07-16 02:17:22,687 - ERROR - Trading cycle error: Connection error.
+2025-07-16 02:17:22,688 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-16 02:17:22,688 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 02:47:22,550 - INFO - 
+==================================================
+2025-07-16 02:47:22,554 - INFO - 🔄 Trading Cycle #24
+2025-07-16 02:47:22,554 - INFO - ==================================================
+2025-07-16 02:47:22,555 - INFO - 🤖 Starting trading cycle...
+2025-07-16 02:47:32,607 - INFO - Retrying request to /openai/v1/chat/completions in 0.395941 seconds
+2025-07-16 02:47:43,023 - INFO - Retrying request to /openai/v1/chat/completions in 0.885190 seconds
+2025-07-16 02:47:53,959 - ERROR - Trading cycle error: Connection error.
+2025-07-16 02:47:53,960 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-16 02:47:53,960 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 03:17:53,828 - INFO - 
+==================================================
+2025-07-16 03:17:53,832 - INFO - 🔄 Trading Cycle #25
+2025-07-16 03:17:53,833 - INFO - ==================================================
+2025-07-16 03:17:53,833 - INFO - 🤖 Starting trading cycle...
+2025-07-16 03:18:03,885 - INFO - Retrying request to /openai/v1/chat/completions in 0.454627 seconds
+2025-07-16 03:18:14,362 - INFO - Retrying request to /openai/v1/chat/completions in 0.846286 seconds
+2025-07-16 03:18:25,241 - ERROR - Trading cycle error: Connection error.
+2025-07-16 03:18:25,242 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-16 03:18:25,243 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 03:48:25,064 - INFO - 
+==================================================
+2025-07-16 03:48:25,068 - INFO - 🔄 Trading Cycle #26
+2025-07-16 03:48:25,068 - INFO - ==================================================
+2025-07-16 03:48:25,069 - INFO - 🤖 Starting trading cycle...
+2025-07-16 03:48:35,101 - INFO - Retrying request to /openai/v1/chat/completions in 0.381202 seconds
+2025-07-16 03:48:45,499 - INFO - Retrying request to /openai/v1/chat/completions in 0.849049 seconds
+2025-07-16 03:48:56,484 - ERROR - Trading cycle error: Connection error.
+2025-07-16 03:48:56,485 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-16 03:48:56,485 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 04:18:56,313 - INFO - 
+==================================================
+2025-07-16 04:18:56,320 - INFO - 🔄 Trading Cycle #27
+2025-07-16 04:18:56,321 - INFO - ==================================================
+2025-07-16 04:18:56,321 - INFO - 🤖 Starting trading cycle...
+2025-07-16 04:19:06,383 - INFO - Retrying request to /openai/v1/chat/completions in 0.389391 seconds
+2025-07-16 04:19:16,810 - INFO - Retrying request to /openai/v1/chat/completions in 0.941105 seconds
+2025-07-16 04:19:28,071 - ERROR - Trading cycle error: Connection error.
+2025-07-16 04:19:28,072 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-16 04:19:28,083 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 04:49:27,908 - INFO - 
+==================================================
+2025-07-16 04:49:27,925 - INFO - 🔄 Trading Cycle #28
+2025-07-16 04:49:27,925 - INFO - ==================================================
+2025-07-16 04:49:27,925 - INFO - 🤖 Starting trading cycle...
+2025-07-16 04:49:37,993 - INFO - Retrying request to /openai/v1/chat/completions in 0.376791 seconds
+2025-07-16 04:49:48,390 - INFO - Retrying request to /openai/v1/chat/completions in 0.972560 seconds
+2025-07-16 04:49:59,396 - ERROR - Trading cycle error: Connection error.
+2025-07-16 04:49:59,397 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-16 04:49:59,397 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 08:34:12,376 - INFO - 
+==================================================
+2025-07-16 08:34:12,439 - INFO - 🔄 Trading Cycle #29
+2025-07-16 08:34:12,441 - INFO - ==================================================
+2025-07-16 08:34:12,442 - INFO - 🤖 Starting trading cycle...
+2025-07-16 08:34:13,609 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2025-07-16 08:34:13,656 - ERROR - Trading cycle error: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 08:34:13,657 - INFO - Cycle result: ❌ Trading cycle failed: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 08:34:13,657 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 09:05:07,276 - INFO - 
+==================================================
+2025-07-16 09:05:07,315 - INFO - 🔄 Trading Cycle #30
+2025-07-16 09:05:07,315 - INFO - ==================================================
+2025-07-16 09:05:07,316 - INFO - 🤖 Starting trading cycle...
+2025-07-16 09:05:08,226 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2025-07-16 09:05:08,449 - ERROR - Trading cycle error: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 09:05:08,455 - INFO - Cycle result: ❌ Trading cycle failed: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 09:05:08,456 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 09:36:17,143 - INFO - 
+==================================================
+2025-07-16 09:36:17,168 - INFO - 🔄 Trading Cycle #31
+2025-07-16 09:36:17,168 - INFO - ==================================================
+2025-07-16 09:36:17,168 - INFO - 🤖 Starting trading cycle...
+2025-07-16 09:36:18,080 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2025-07-16 09:36:18,296 - ERROR - Trading cycle error: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 09:36:18,300 - INFO - Cycle result: ❌ Trading cycle failed: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 09:36:18,300 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 10:07:33,163 - INFO - 
+==================================================
+2025-07-16 10:07:33,173 - INFO - 🔄 Trading Cycle #32
+2025-07-16 10:07:33,174 - INFO - ==================================================
+2025-07-16 10:07:33,174 - INFO - 🤖 Starting trading cycle...
+2025-07-16 10:07:34,193 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2025-07-16 10:07:34,395 - ERROR - Trading cycle error: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 10:07:34,395 - INFO - Cycle result: ❌ Trading cycle failed: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 10:07:34,395 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 10:38:53,531 - INFO - 
+==================================================
+2025-07-16 10:38:53,538 - INFO - 🔄 Trading Cycle #33
+2025-07-16 10:38:53,538 - INFO - ==================================================
+2025-07-16 10:38:53,539 - INFO - 🤖 Starting trading cycle...
+2025-07-16 10:38:54,676 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2025-07-16 10:38:54,883 - ERROR - Trading cycle error: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 10:38:54,883 - INFO - Cycle result: ❌ Trading cycle failed: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 10:38:54,883 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 11:10:17,111 - INFO - 
+==================================================
+2025-07-16 11:10:17,143 - INFO - 🔄 Trading Cycle #34
+2025-07-16 11:10:17,143 - INFO - ==================================================
+2025-07-16 11:10:17,144 - INFO - 🤖 Starting trading cycle...
+2025-07-16 11:10:18,259 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2025-07-16 11:10:18,495 - ERROR - Trading cycle error: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 11:10:18,495 - INFO - Cycle result: ❌ Trading cycle failed: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 11:10:18,495 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 11:41:43,660 - INFO - 
+==================================================
+2025-07-16 11:41:43,684 - INFO - 🔄 Trading Cycle #35
+2025-07-16 11:41:43,685 - INFO - ==================================================
+2025-07-16 11:41:43,685 - INFO - 🤖 Starting trading cycle...
+2025-07-16 11:41:44,664 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2025-07-16 11:41:44,900 - ERROR - Trading cycle error: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 11:41:44,901 - INFO - Cycle result: ❌ Trading cycle failed: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 11:41:44,901 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 12:13:17,909 - INFO - 
+==================================================
+2025-07-16 12:13:20,128 - INFO - 🔄 Trading Cycle #36
+2025-07-16 12:13:20,128 - INFO - ==================================================
+2025-07-16 12:13:20,128 - INFO - 🤖 Starting trading cycle...
+2025-07-16 12:13:24,294 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2025-07-16 12:13:24,521 - ERROR - Trading cycle error: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 12:13:24,522 - INFO - Cycle result: ❌ Trading cycle failed: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 12:13:24,522 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 12:44:14,646 - INFO - 
+==================================================
+2025-07-16 12:44:14,696 - INFO - 🔄 Trading Cycle #37
+2025-07-16 12:44:14,697 - INFO - ==================================================
+2025-07-16 12:44:14,697 - INFO - 🤖 Starting trading cycle...
+2025-07-16 12:44:24,835 - INFO - Retrying request to /openai/v1/chat/completions in 0.375209 seconds
+2025-07-16 12:44:35,240 - INFO - Retrying request to /openai/v1/chat/completions in 0.953234 seconds
+2025-07-16 12:44:46,245 - ERROR - Trading cycle error: Connection error.
+2025-07-16 12:44:46,245 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-16 12:44:46,246 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 13:15:13,123 - INFO - 
+==================================================
+2025-07-16 13:15:13,154 - INFO - 🔄 Trading Cycle #38
+2025-07-16 13:15:13,154 - INFO - ==================================================
+2025-07-16 13:15:13,155 - INFO - 🤖 Starting trading cycle...
+2025-07-16 13:15:14,119 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2025-07-16 13:15:14,291 - ERROR - Trading cycle error: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 13:15:14,291 - INFO - Cycle result: ❌ Trading cycle failed: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 13:15:14,291 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 13:46:38,783 - INFO - 
+==================================================
+2025-07-16 13:46:38,787 - INFO - 🔄 Trading Cycle #39
+2025-07-16 13:46:38,787 - INFO - ==================================================
+2025-07-16 13:46:38,787 - INFO - 🤖 Starting trading cycle...
+2025-07-16 13:46:39,550 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2025-07-16 13:46:39,761 - ERROR - Trading cycle error: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 13:46:39,761 - INFO - Cycle result: ❌ Trading cycle failed: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 13:46:39,761 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 14:18:14,422 - INFO - 
+==================================================
+2025-07-16 14:18:14,455 - INFO - 🔄 Trading Cycle #40
+2025-07-16 14:18:14,455 - INFO - ==================================================
+2025-07-16 14:18:14,456 - INFO - 🤖 Starting trading cycle...
+2025-07-16 14:18:15,498 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2025-07-16 14:18:15,504 - ERROR - Trading cycle error: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 14:18:15,504 - INFO - Cycle result: ❌ Trading cycle failed: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 14:18:15,505 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 14:49:55,678 - INFO - 
+==================================================
+2025-07-16 14:49:55,706 - INFO - 🔄 Trading Cycle #41
+2025-07-16 14:49:55,707 - INFO - ==================================================
+2025-07-16 14:49:55,707 - INFO - 🤖 Starting trading cycle...
+2025-07-16 14:49:56,527 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2025-07-16 14:49:56,711 - ERROR - Trading cycle error: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 14:49:56,712 - INFO - Cycle result: ❌ Trading cycle failed: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 14:49:56,723 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 15:21:41,183 - INFO - 
+==================================================
+2025-07-16 15:21:41,209 - INFO - 🔄 Trading Cycle #42
+2025-07-16 15:21:41,210 - INFO - ==================================================
+2025-07-16 15:21:41,211 - INFO - 🤖 Starting trading cycle...
+2025-07-16 15:21:42,089 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2025-07-16 15:21:42,309 - ERROR - Trading cycle error: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 15:21:42,310 - INFO - Cycle result: ❌ Trading cycle failed: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 15:21:42,310 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 15:53:29,781 - INFO - 
+==================================================
+2025-07-16 15:53:29,813 - INFO - 🔄 Trading Cycle #43
+2025-07-16 15:53:29,814 - INFO - ==================================================
+2025-07-16 15:53:29,815 - INFO - 🤖 Starting trading cycle...
+2025-07-16 15:53:30,938 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2025-07-16 15:53:31,158 - ERROR - Trading cycle error: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 15:53:31,158 - INFO - Cycle result: ❌ Trading cycle failed: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 15:53:31,158 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 16:25:21,568 - INFO - 
+==================================================
+2025-07-16 16:25:21,599 - INFO - 🔄 Trading Cycle #44
+2025-07-16 16:25:21,600 - INFO - ==================================================
+2025-07-16 16:25:21,601 - INFO - 🤖 Starting trading cycle...
+2025-07-16 16:25:24,730 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2025-07-16 16:25:24,742 - ERROR - Trading cycle error: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 16:25:24,742 - INFO - Cycle result: ❌ Trading cycle failed: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 16:25:24,743 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 16:57:13,479 - INFO - 
+==================================================
+2025-07-16 16:57:13,509 - INFO - 🔄 Trading Cycle #45
+2025-07-16 16:57:13,509 - INFO - ==================================================
+2025-07-16 16:57:13,510 - INFO - 🤖 Starting trading cycle...
+2025-07-16 16:57:23,642 - INFO - Retrying request to /openai/v1/chat/completions in 0.457553 seconds
+2025-07-16 16:57:35,021 - INFO - Retrying request to /openai/v1/chat/completions in 0.981486 seconds
+2025-07-16 16:57:46,062 - ERROR - Trading cycle error: Connection error.
+2025-07-16 16:57:46,063 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-16 16:57:46,063 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 17:27:56,895 - INFO - 
+==================================================
+2025-07-16 17:27:56,916 - INFO - 🔄 Trading Cycle #46
+2025-07-16 17:27:56,916 - INFO - ==================================================
+2025-07-16 17:27:56,916 - INFO - 🤖 Starting trading cycle...
+2025-07-16 17:28:06,991 - INFO - Retrying request to /openai/v1/chat/completions in 0.417453 seconds
+2025-07-16 17:28:17,446 - INFO - Retrying request to /openai/v1/chat/completions in 0.879859 seconds
+2025-07-16 17:28:28,356 - ERROR - Trading cycle error: Connection error.
+2025-07-16 17:28:28,357 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-16 17:28:28,368 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 18:13:17,209 - INFO - 
+==================================================
+2025-07-16 18:13:17,236 - INFO - 🔄 Trading Cycle #47
+2025-07-16 18:13:17,237 - INFO - ==================================================
+2025-07-16 18:13:17,237 - INFO - 🤖 Starting trading cycle...
+2025-07-16 18:13:18,242 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2025-07-16 18:13:18,436 - ERROR - Trading cycle error: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 18:13:18,436 - INFO - Cycle result: ❌ Trading cycle failed: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 18:13:18,436 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 18:44:25,812 - INFO - 
+==================================================
+2025-07-16 18:44:25,841 - INFO - 🔄 Trading Cycle #48
+2025-07-16 18:44:25,842 - INFO - ==================================================
+2025-07-16 18:44:25,842 - INFO - 🤖 Starting trading cycle...
+2025-07-16 18:44:26,831 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2025-07-16 18:44:26,839 - ERROR - Trading cycle error: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 18:44:26,839 - INFO - Cycle result: ❌ Trading cycle failed: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 18:44:26,839 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 19:16:19,610 - INFO - 
+==================================================
+2025-07-16 19:16:19,639 - INFO - 🔄 Trading Cycle #49
+2025-07-16 19:16:19,639 - INFO - ==================================================
+2025-07-16 19:16:19,640 - INFO - 🤖 Starting trading cycle...
+2025-07-16 19:16:20,628 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2025-07-16 19:16:20,638 - ERROR - Trading cycle error: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 19:16:20,638 - INFO - Cycle result: ❌ Trading cycle failed: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 19:16:20,638 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 19:19:57,422 - INFO - 🛑 Trading bot stopped by user
+2025-07-16 19:20:38,699 - INFO - 🚀 Starting autonomous trading agent (interval: 30 minutes)
+2025-07-16 19:20:38,700 - INFO - 
+==================================================
+2025-07-16 19:20:38,701 - INFO - 🔄 Trading Cycle #1
+2025-07-16 19:20:38,701 - INFO - ==================================================
+2025-07-16 19:20:38,701 - INFO - 🤖 Starting trading cycle...
+2025-07-16 19:20:39,599 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2025-07-16 19:20:39,803 - ERROR - Trading cycle error: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 19:20:39,804 - INFO - Cycle result: ❌ Trading cycle failed: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-16 19:20:39,804 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 19:20:57,440 - INFO - 🛑 Trading bot stopped by user
+2025-07-16 19:21:01,648 - INFO - 🚀 Starting autonomous trading agent (interval: 30 minutes)
+2025-07-16 19:21:01,648 - INFO - 
+==================================================
+2025-07-16 19:21:01,648 - INFO - 🔄 Trading Cycle #1
+2025-07-16 19:21:01,648 - INFO - ==================================================
+2025-07-16 19:21:01,648 - INFO - 🤖 Starting trading cycle...
+2025-07-16 19:21:03,876 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 19:21:05,603 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 19:21:07,388 - ERROR - Market analysis error: float division by zero
+2025-07-16 19:21:08,862 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 19:21:15,491 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 19:21:20,212 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 19:21:20,214 - ERROR - Trading cycle error: An output parsing error occurred. In order to pass this error back to the agent and have it try again, pass `handle_parsing_errors=True` to the AgentExecutor. This is the error: Could not parse LLM output: `Thought: It seems like the risk assessment was successful. Let me analyze the result.
+`
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-16 19:21:20,215 - INFO - Cycle result: ❌ Trading cycle failed: An output parsing error occurred. In order to pass this error back to the agent and have it try again, pass `handle_parsing_errors=True` to the AgentExecutor. This is the error: Could not parse LLM output: `Thought: It seems like the risk assessment was successful. Let me analyze the result.
+`
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-16 19:21:20,217 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 19:53:16,132 - INFO - 
+==================================================
+2025-07-16 19:53:16,191 - INFO - 🔄 Trading Cycle #2
+2025-07-16 19:53:16,193 - INFO - ==================================================
+2025-07-16 19:53:16,194 - INFO - 🤖 Starting trading cycle...
+2025-07-16 19:53:18,583 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 19:53:19,827 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 19:53:21,540 - ERROR - Market analysis error: float division by zero
+2025-07-16 19:53:22,845 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 19:53:27,689 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 19:53:32,491 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 19:53:32,495 - ERROR - Trading cycle error: An output parsing error occurred. In order to pass this error back to the agent and have it try again, pass `handle_parsing_errors=True` to the AgentExecutor. This is the error: Could not parse LLM output: `Thought: It seems like the risk assessment was successful. Let me analyze the result.
+`
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-16 19:53:32,495 - INFO - Cycle result: ❌ Trading cycle failed: An output parsing error occurred. In order to pass this error back to the agent and have it try again, pass `handle_parsing_errors=True` to the AgentExecutor. This is the error: Could not parse LLM output: `Thought: It seems like the risk assessment was successful. Let me analyze the result.
+`
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-16 19:53:32,495 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 20:25:30,982 - INFO - 
+==================================================
+2025-07-16 20:25:31,019 - INFO - 🔄 Trading Cycle #3
+2025-07-16 20:25:31,019 - INFO - ==================================================
+2025-07-16 20:25:31,020 - INFO - 🤖 Starting trading cycle...
+2025-07-16 20:25:33,051 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 20:25:34,349 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 20:25:36,108 - ERROR - Market analysis error: float division by zero
+2025-07-16 20:25:37,599 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 20:25:45,996 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 20:25:51,681 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 20:25:51,684 - ERROR - Trading cycle error: An output parsing error occurred. In order to pass this error back to the agent and have it try again, pass `handle_parsing_errors=True` to the AgentExecutor. This is the error: Could not parse LLM output: `Thought: It seems like the risk assessment was successful. Let me analyze the result.
+`
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-16 20:25:51,685 - INFO - Cycle result: ❌ Trading cycle failed: An output parsing error occurred. In order to pass this error back to the agent and have it try again, pass `handle_parsing_errors=True` to the AgentExecutor. This is the error: Could not parse LLM output: `Thought: It seems like the risk assessment was successful. Let me analyze the result.
+`
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-16 20:25:51,685 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 20:57:52,296 - INFO - 
+==================================================
+2025-07-16 20:57:52,328 - INFO - 🔄 Trading Cycle #4
+2025-07-16 20:57:52,329 - INFO - ==================================================
+2025-07-16 20:57:52,333 - INFO - 🤖 Starting trading cycle...
+2025-07-16 20:57:54,305 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 20:57:56,620 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 20:57:58,468 - ERROR - Market analysis error: float division by zero
+2025-07-16 20:57:59,854 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 20:58:05,043 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 20:58:09,903 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 20:58:13,320 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-16 20:58:13,320 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 21:30:09,040 - INFO - 
+==================================================
+2025-07-16 21:30:09,090 - INFO - 🔄 Trading Cycle #5
+2025-07-16 21:30:09,093 - INFO - ==================================================
+2025-07-16 21:30:09,093 - INFO - 🤖 Starting trading cycle...
+2025-07-16 21:30:19,779 - INFO - Retrying request to /openai/v1/chat/completions in 0.465643 seconds
+2025-07-16 21:30:30,283 - INFO - Retrying request to /openai/v1/chat/completions in 0.829745 seconds
+2025-07-16 21:30:41,634 - ERROR - Trading cycle error: Connection error.
+2025-07-16 21:30:41,635 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-16 21:30:41,636 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 22:00:46,062 - INFO - 
+==================================================
+2025-07-16 22:00:46,085 - INFO - 🔄 Trading Cycle #6
+2025-07-16 22:00:46,085 - INFO - ==================================================
+2025-07-16 22:00:46,085 - INFO - 🤖 Starting trading cycle...
+2025-07-16 22:00:56,515 - INFO - Retrying request to /openai/v1/chat/completions in 0.485401 seconds
+2025-07-16 22:01:07,049 - INFO - Retrying request to /openai/v1/chat/completions in 0.807202 seconds
+2025-07-16 22:01:17,873 - ERROR - Trading cycle error: Connection error.
+2025-07-16 22:01:17,873 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-16 22:01:17,873 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 22:31:17,688 - INFO - 
+==================================================
+2025-07-16 22:31:17,722 - INFO - 🔄 Trading Cycle #7
+2025-07-16 22:31:17,723 - INFO - ==================================================
+2025-07-16 22:31:17,723 - INFO - 🤖 Starting trading cycle...
+2025-07-16 22:31:27,824 - INFO - Retrying request to /openai/v1/chat/completions in 0.451611 seconds
+2025-07-16 22:31:38,317 - INFO - Retrying request to /openai/v1/chat/completions in 0.789017 seconds
+2025-07-16 22:31:49,129 - ERROR - Trading cycle error: Connection error.
+2025-07-16 22:31:49,130 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-16 22:31:49,130 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-16 23:01:48,958 - INFO - 
+==================================================
+2025-07-16 23:01:48,992 - INFO - 🔄 Trading Cycle #8
+2025-07-16 23:01:48,994 - INFO - ==================================================
+2025-07-16 23:01:48,994 - INFO - 🤖 Starting trading cycle...
+2025-07-16 23:01:59,115 - INFO - Retrying request to /openai/v1/chat/completions in 0.476497 seconds
+2025-07-16 23:02:10,612 - INFO - Retrying request to /openai/v1/chat/completions in 0.805318 seconds
+2025-07-16 23:02:21,439 - ERROR - Trading cycle error: Connection error.
+2025-07-16 23:02:21,439 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-16 23:02:21,440 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-17 08:43:18,694 - INFO - 
+==================================================
+2025-07-17 08:43:18,725 - INFO - 🔄 Trading Cycle #9
+2025-07-17 08:43:18,725 - INFO - ==================================================
+2025-07-17 08:43:18,726 - INFO - 🤖 Starting trading cycle...
+2025-07-17 08:43:28,872 - INFO - Retrying request to /openai/v1/chat/completions in 0.422419 seconds
+2025-07-17 08:43:39,320 - INFO - Retrying request to /openai/v1/chat/completions in 0.895529 seconds
+2025-07-17 08:43:50,243 - ERROR - Trading cycle error: Connection error.
+2025-07-17 08:43:50,243 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-17 08:43:50,244 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-17 09:15:04,725 - INFO - 
+==================================================
+2025-07-17 09:15:05,447 - INFO - 🔄 Trading Cycle #10
+2025-07-17 09:15:05,475 - INFO - ==================================================
+2025-07-17 09:15:05,476 - INFO - 🤖 Starting trading cycle...
+2025-07-17 09:15:09,367 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 09:15:10,758 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 09:15:12,410 - ERROR - Market analysis error: float division by zero
+2025-07-17 09:15:13,964 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 09:15:18,917 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 09:15:23,630 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 09:15:23,640 - ERROR - Trading cycle error: An output parsing error occurred. In order to pass this error back to the agent and have it try again, pass `handle_parsing_errors=True` to the AgentExecutor. This is the error: Could not parse LLM output: `Thought: It seems like the risk assessment was successful. Let me analyze the result.
+`
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-17 09:15:23,640 - INFO - Cycle result: ❌ Trading cycle failed: An output parsing error occurred. In order to pass this error back to the agent and have it try again, pass `handle_parsing_errors=True` to the AgentExecutor. This is the error: Could not parse LLM output: `Thought: It seems like the risk assessment was successful. Let me analyze the result.
+`
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-17 09:15:23,640 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-17 09:47:35,965 - INFO - 
+==================================================
+2025-07-17 09:47:36,016 - INFO - 🔄 Trading Cycle #11
+2025-07-17 09:47:36,017 - INFO - ==================================================
+2025-07-17 09:47:36,018 - INFO - 🤖 Starting trading cycle...
+2025-07-17 09:47:38,163 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 09:47:40,419 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 09:47:44,724 - ERROR - Market analysis error: float division by zero
+2025-07-17 09:47:46,545 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 09:47:50,997 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 09:47:55,592 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 09:47:55,596 - ERROR - Trading cycle error: An output parsing error occurred. In order to pass this error back to the agent and have it try again, pass `handle_parsing_errors=True` to the AgentExecutor. This is the error: Could not parse LLM output: `Thought: It seems like the risk assessment was successful. Let me analyze the results.
+`
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-17 09:47:55,596 - INFO - Cycle result: ❌ Trading cycle failed: An output parsing error occurred. In order to pass this error back to the agent and have it try again, pass `handle_parsing_errors=True` to the AgentExecutor. This is the error: Could not parse LLM output: `Thought: It seems like the risk assessment was successful. Let me analyze the results.
+`
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-17 09:47:55,597 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-17 10:19:38,878 - INFO - 
+==================================================
+2025-07-17 10:19:39,422 - INFO - 🔄 Trading Cycle #12
+2025-07-17 10:19:39,434 - INFO - ==================================================
+2025-07-17 10:19:39,435 - INFO - 🤖 Starting trading cycle...
+2025-07-17 10:19:43,963 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 10:19:47,261 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 10:19:48,843 - ERROR - Market analysis error: float division by zero
+2025-07-17 10:19:50,387 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 10:19:54,949 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 10:20:02,379 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 10:20:02,382 - ERROR - Trading cycle error: An output parsing error occurred. In order to pass this error back to the agent and have it try again, pass `handle_parsing_errors=True` to the AgentExecutor. This is the error: Could not parse LLM output: `Here is the continuation:
+`
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-17 10:20:02,383 - INFO - Cycle result: ❌ Trading cycle failed: An output parsing error occurred. In order to pass this error back to the agent and have it try again, pass `handle_parsing_errors=True` to the AgentExecutor. This is the error: Could not parse LLM output: `Here is the continuation:
+`
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-17 10:20:02,383 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-17 10:52:04,600 - INFO - 
+==================================================
+2025-07-17 10:52:04,648 - INFO - 🔄 Trading Cycle #13
+2025-07-17 10:52:04,650 - INFO - ==================================================
+2025-07-17 10:52:04,651 - INFO - 🤖 Starting trading cycle...
+2025-07-17 10:52:14,828 - INFO - Retrying request to /openai/v1/chat/completions in 0.439504 seconds
+2025-07-17 10:52:25,287 - INFO - Retrying request to /openai/v1/chat/completions in 0.831424 seconds
+2025-07-17 10:52:36,585 - ERROR - Trading cycle error: Connection error.
+2025-07-17 10:52:36,586 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-17 10:52:36,586 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-17 11:22:36,500 - INFO - 
+==================================================
+2025-07-17 11:22:36,531 - INFO - 🔄 Trading Cycle #14
+2025-07-17 11:22:36,532 - INFO - ==================================================
+2025-07-17 11:22:36,532 - INFO - 🤖 Starting trading cycle...
+2025-07-17 11:22:46,628 - INFO - Retrying request to /openai/v1/chat/completions in 0.449147 seconds
+2025-07-17 11:22:57,105 - INFO - Retrying request to /openai/v1/chat/completions in 0.871142 seconds
+2025-07-17 11:23:08,016 - ERROR - Trading cycle error: Connection error.
+2025-07-17 11:23:08,016 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-17 11:23:08,016 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-17 11:53:07,895 - INFO - 
+==================================================
+2025-07-17 11:53:07,942 - INFO - 🔄 Trading Cycle #15
+2025-07-17 11:53:07,943 - INFO - ==================================================
+2025-07-17 11:53:07,944 - INFO - 🤖 Starting trading cycle...
+2025-07-17 11:53:18,088 - INFO - Retrying request to /openai/v1/chat/completions in 0.429641 seconds
+2025-07-17 11:53:28,545 - INFO - Retrying request to /openai/v1/chat/completions in 0.978790 seconds
+2025-07-17 11:53:39,545 - ERROR - Trading cycle error: Connection error.
+2025-07-17 11:53:39,546 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-17 11:53:39,546 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-17 12:23:39,433 - INFO - 
+==================================================
+2025-07-17 12:23:39,459 - INFO - 🔄 Trading Cycle #16
+2025-07-17 12:23:39,460 - INFO - ==================================================
+2025-07-17 12:23:39,460 - INFO - 🤖 Starting trading cycle...
+2025-07-17 12:23:49,557 - INFO - Retrying request to /openai/v1/chat/completions in 0.465025 seconds
+2025-07-17 12:24:00,051 - INFO - Retrying request to /openai/v1/chat/completions in 0.979713 seconds
+2025-07-17 12:24:11,065 - ERROR - Trading cycle error: Connection error.
+2025-07-17 12:24:11,066 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-17 12:24:11,066 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-17 12:54:10,890 - INFO - 
+==================================================
+2025-07-17 12:54:10,928 - INFO - 🔄 Trading Cycle #17
+2025-07-17 12:54:10,929 - INFO - ==================================================
+2025-07-17 12:54:10,929 - INFO - 🤖 Starting trading cycle...
+2025-07-17 12:54:21,030 - INFO - Retrying request to /openai/v1/chat/completions in 0.464679 seconds
+2025-07-17 12:54:31,515 - INFO - Retrying request to /openai/v1/chat/completions in 0.944621 seconds
+2025-07-17 12:54:42,476 - ERROR - Trading cycle error: Connection error.
+2025-07-17 12:54:42,477 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-17 12:54:42,477 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-17 13:38:36,881 - INFO - 
+==================================================
+2025-07-17 13:38:36,910 - INFO - 🔄 Trading Cycle #18
+2025-07-17 13:38:36,912 - INFO - ==================================================
+2025-07-17 13:38:36,912 - INFO - 🤖 Starting trading cycle...
+2025-07-17 13:38:47,032 - INFO - Retrying request to /openai/v1/chat/completions in 0.417053 seconds
+2025-07-17 13:38:57,489 - INFO - Retrying request to /openai/v1/chat/completions in 0.844074 seconds
+2025-07-17 13:39:08,422 - ERROR - Trading cycle error: Connection error.
+2025-07-17 13:39:08,423 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-17 13:39:08,435 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-17 14:09:08,316 - INFO - 
+==================================================
+2025-07-17 14:09:08,344 - INFO - 🔄 Trading Cycle #19
+2025-07-17 14:09:08,345 - INFO - ==================================================
+2025-07-17 14:09:08,346 - INFO - 🤖 Starting trading cycle...
+2025-07-17 14:09:18,454 - INFO - Retrying request to /openai/v1/chat/completions in 0.417044 seconds
+2025-07-17 14:09:28,933 - INFO - Retrying request to /openai/v1/chat/completions in 0.959010 seconds
+2025-07-17 14:09:39,921 - ERROR - Trading cycle error: Connection error.
+2025-07-17 14:09:39,922 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-17 14:09:39,922 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-17 14:39:39,797 - INFO - 
+==================================================
+2025-07-17 14:39:39,830 - INFO - 🔄 Trading Cycle #20
+2025-07-17 14:39:39,830 - INFO - ==================================================
+2025-07-17 14:39:39,831 - INFO - 🤖 Starting trading cycle...
+2025-07-17 14:39:49,945 - INFO - Retrying request to /openai/v1/chat/completions in 0.396016 seconds
+2025-07-17 14:40:00,358 - INFO - Retrying request to /openai/v1/chat/completions in 0.792070 seconds
+2025-07-17 14:40:11,183 - ERROR - Trading cycle error: Connection error.
+2025-07-17 14:40:11,185 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-17 14:40:11,185 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-17 15:00:18,828 - INFO - 🛑 Trading bot stopped by user
+2025-07-20 18:06:14,892 - INFO - 🚀 Starting autonomous trading agent (interval: 30 minutes)
+2025-07-20 18:06:14,894 - INFO - 
+==================================================
+2025-07-20 18:06:14,895 - INFO - 🔄 Trading Cycle #1
+2025-07-20 18:06:14,895 - INFO - ==================================================
+2025-07-20 18:06:14,895 - INFO - 🤖 Starting trading cycle...
+2025-07-20 18:06:15,718 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2025-07-20 18:06:15,919 - ERROR - Trading cycle error: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-20 18:06:15,919 - INFO - Cycle result: ❌ Trading cycle failed: Error code: 403 - {'error': {'message': 'Access denied. Please check your network settings.'}}
+2025-07-20 18:06:15,919 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-20 18:06:48,200 - INFO - 🛑 Trading bot stopped by user
+2025-07-20 18:06:52,552 - INFO - 🚀 Starting autonomous trading agent (interval: 30 minutes)
+2025-07-20 18:06:52,554 - INFO - 
+==================================================
+2025-07-20 18:06:52,554 - INFO - 🔄 Trading Cycle #1
+2025-07-20 18:06:52,554 - INFO - ==================================================
+2025-07-20 18:06:52,555 - INFO - 🤖 Starting trading cycle...
+2025-07-20 18:06:58,389 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 18:07:18,754 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 18:07:22,653 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 18:07:32,366 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 18:07:37,810 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 18:07:38,507 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-20 18:07:38,507 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-20 18:39:17,523 - INFO - 
+==================================================
+2025-07-20 18:39:17,562 - INFO - 🔄 Trading Cycle #2
+2025-07-20 18:39:17,563 - INFO - ==================================================
+2025-07-20 18:39:17,564 - INFO - 🤖 Starting trading cycle...
+2025-07-20 18:39:28,115 - INFO - Retrying request to /openai/v1/chat/completions in 0.452849 seconds
+2025-07-20 18:39:38,653 - INFO - Retrying request to /openai/v1/chat/completions in 0.868406 seconds
+2025-07-20 18:39:49,544 - ERROR - Trading cycle error: Connection error.
+2025-07-20 18:39:49,544 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-20 18:39:49,544 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-20 19:09:49,369 - INFO - 
+==================================================
+2025-07-20 19:09:49,385 - INFO - 🔄 Trading Cycle #3
+2025-07-20 19:09:49,385 - INFO - ==================================================
+2025-07-20 19:09:49,385 - INFO - 🤖 Starting trading cycle...
+2025-07-20 19:09:59,453 - INFO - Retrying request to /openai/v1/chat/completions in 0.411039 seconds
+2025-07-20 19:10:09,885 - INFO - Retrying request to /openai/v1/chat/completions in 0.818462 seconds
+2025-07-20 19:10:20,750 - ERROR - Trading cycle error: Connection error.
+2025-07-20 19:10:20,750 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-20 19:10:20,751 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-20 19:40:20,630 - INFO - 
+==================================================
+2025-07-20 19:40:20,654 - INFO - 🔄 Trading Cycle #4
+2025-07-20 19:40:20,657 - INFO - ==================================================
+2025-07-20 19:40:20,657 - INFO - 🤖 Starting trading cycle...
+2025-07-20 19:40:30,766 - INFO - Retrying request to /openai/v1/chat/completions in 0.479306 seconds
+2025-07-20 19:40:41,270 - INFO - Retrying request to /openai/v1/chat/completions in 0.814977 seconds
+2025-07-20 19:40:52,114 - ERROR - Trading cycle error: Connection error.
+2025-07-20 19:40:52,116 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-20 19:40:52,116 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-20 20:10:51,941 - INFO - 
+==================================================
+2025-07-20 20:10:51,943 - INFO - 🔄 Trading Cycle #5
+2025-07-20 20:10:51,943 - INFO - ==================================================
+2025-07-20 20:10:51,943 - INFO - 🤖 Starting trading cycle...
+2025-07-20 20:11:01,981 - INFO - Retrying request to /openai/v1/chat/completions in 0.497435 seconds
+2025-07-20 20:11:12,491 - INFO - Retrying request to /openai/v1/chat/completions in 0.942068 seconds
+2025-07-20 20:11:23,689 - ERROR - Trading cycle error: Connection error.
+2025-07-20 20:11:23,689 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-20 20:11:23,689 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-20 20:41:23,529 - INFO - 
+==================================================
+2025-07-20 20:41:23,529 - INFO - 🔄 Trading Cycle #6
+2025-07-20 20:41:23,529 - INFO - ==================================================
+2025-07-20 20:41:23,529 - INFO - 🤖 Starting trading cycle...
+2025-07-20 20:41:33,547 - INFO - Retrying request to /openai/v1/chat/completions in 0.452816 seconds
+2025-07-20 20:41:44,009 - INFO - Retrying request to /openai/v1/chat/completions in 0.949819 seconds
+2025-07-20 20:41:54,973 - ERROR - Trading cycle error: Connection error.
+2025-07-20 20:41:54,974 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-20 20:41:54,975 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-20 21:11:54,845 - INFO - 
+==================================================
+2025-07-20 21:11:54,852 - INFO - 🔄 Trading Cycle #7
+2025-07-20 21:11:54,852 - INFO - ==================================================
+2025-07-20 21:11:54,852 - INFO - 🤖 Starting trading cycle...
+2025-07-20 21:12:04,924 - INFO - Retrying request to /openai/v1/chat/completions in 0.381725 seconds
+2025-07-20 21:12:15,380 - INFO - Retrying request to /openai/v1/chat/completions in 0.981916 seconds
+2025-07-20 21:12:26,566 - ERROR - Trading cycle error: Connection error.
+2025-07-20 21:12:26,567 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-20 21:12:26,567 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-20 21:42:29,483 - INFO - 
+==================================================
+2025-07-20 21:42:29,524 - INFO - 🔄 Trading Cycle #8
+2025-07-20 21:42:29,525 - INFO - ==================================================
+2025-07-20 21:42:29,525 - INFO - 🤖 Starting trading cycle...
+2025-07-20 21:42:32,861 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 21:43:00,232 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 21:43:04,617 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 21:43:13,826 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 21:43:33,529 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 21:43:39,143 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-20 21:43:39,143 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-20 22:13:34,775 - INFO - 
+==================================================
+2025-07-20 22:13:34,776 - INFO - 🔄 Trading Cycle #9
+2025-07-20 22:13:34,776 - INFO - ==================================================
+2025-07-20 22:13:34,777 - INFO - 🤖 Starting trading cycle...
+2025-07-20 22:13:36,441 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 22:13:44,128 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 22:13:47,891 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 22:13:56,028 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 22:14:01,328 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 22:14:02,080 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-20 22:14:02,080 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-20 22:44:02,338 - INFO - 
+==================================================
+2025-07-20 22:44:02,361 - INFO - 🔄 Trading Cycle #10
+2025-07-20 22:44:02,362 - INFO - ==================================================
+2025-07-20 22:44:02,362 - INFO - 🤖 Starting trading cycle...
+2025-07-20 22:44:05,946 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 22:44:32,262 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 22:44:37,162 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 22:44:44,026 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 22:44:50,718 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 22:44:51,595 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-20 22:44:51,595 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-20 23:14:59,307 - INFO - 
+==================================================
+2025-07-20 23:14:59,315 - INFO - 🔄 Trading Cycle #11
+2025-07-20 23:14:59,315 - INFO - ==================================================
+2025-07-20 23:14:59,315 - INFO - 🤖 Starting trading cycle...
+2025-07-20 23:15:00,970 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 23:15:06,351 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 23:15:09,892 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 23:15:15,581 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 23:15:21,610 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 23:15:22,348 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-20 23:15:22,348 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-20 23:45:28,629 - INFO - 
+==================================================
+2025-07-20 23:45:28,644 - INFO - 🔄 Trading Cycle #12
+2025-07-20 23:45:28,644 - INFO - ==================================================
+2025-07-20 23:45:28,644 - INFO - 🤖 Starting trading cycle...
+2025-07-20 23:45:31,061 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 23:46:03,093 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 23:46:08,514 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 23:47:44,918 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 23:48:22,015 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 23:48:26,634 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-20 23:48:26,634 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-21 00:18:44,248 - INFO - 
+==================================================
+2025-07-21 00:18:44,257 - INFO - 🔄 Trading Cycle #13
+2025-07-21 00:18:44,257 - INFO - ==================================================
+2025-07-21 00:18:44,257 - INFO - 🤖 Starting trading cycle...
+2025-07-21 00:18:46,687 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 00:18:52,035 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 00:18:55,718 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 00:19:01,283 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 00:19:06,372 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 00:19:07,133 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-21 00:19:07,134 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-21 00:49:18,595 - INFO - 
+==================================================
+2025-07-21 00:49:18,599 - INFO - 🔄 Trading Cycle #14
+2025-07-21 00:49:18,600 - INFO - ==================================================
+2025-07-21 00:49:18,600 - INFO - 🤖 Starting trading cycle...
+2025-07-21 00:49:20,974 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 00:49:47,960 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 00:49:51,910 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 00:49:57,643 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 00:50:02,598 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 00:50:03,419 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-21 00:50:03,420 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-21 01:20:16,690 - INFO - 
+==================================================
+2025-07-21 01:20:16,693 - INFO - 🔄 Trading Cycle #15
+2025-07-21 01:20:16,694 - INFO - ==================================================
+2025-07-21 01:20:16,694 - INFO - 🤖 Starting trading cycle...
+2025-07-21 01:20:19,505 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 01:20:24,964 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 01:20:30,949 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 01:20:34,789 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 01:20:40,795 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 01:20:41,579 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-21 01:20:41,580 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-21 01:50:55,215 - INFO - 
+==================================================
+2025-07-21 01:50:55,251 - INFO - 🔄 Trading Cycle #16
+2025-07-21 01:50:55,252 - INFO - ==================================================
+2025-07-21 01:50:55,253 - INFO - 🤖 Starting trading cycle...
+2025-07-21 01:50:57,583 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 01:51:29,176 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 01:51:59,842 - ERROR - Market analysis error: float division by zero
+2025-07-21 01:52:01,709 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 01:53:47,139 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 01:54:23,251 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 01:54:25,571 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-21 01:54:25,572 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-21 02:25:00,566 - INFO - 
+==================================================
+2025-07-21 02:25:00,571 - INFO - 🔄 Trading Cycle #17
+2025-07-21 02:25:00,571 - INFO - ==================================================
+2025-07-21 02:25:00,571 - INFO - 🤖 Starting trading cycle...
+2025-07-21 02:25:03,676 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 02:25:08,737 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 02:25:12,958 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 02:25:18,255 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 02:25:23,219 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 02:25:23,901 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-21 02:25:23,901 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-21 02:56:09,616 - INFO - 
+==================================================
+2025-07-21 02:56:09,625 - INFO - 🔄 Trading Cycle #18
+2025-07-21 02:56:09,625 - INFO - ==================================================
+2025-07-21 02:56:09,626 - INFO - 🤖 Starting trading cycle...
+2025-07-21 02:56:11,581 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 02:56:36,180 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 02:56:39,815 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 02:56:44,873 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 02:56:50,777 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 02:56:51,460 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-21 02:56:51,460 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-21 03:27:41,051 - INFO - 
+==================================================
+2025-07-21 03:27:41,054 - INFO - 🔄 Trading Cycle #19
+2025-07-21 03:27:41,054 - INFO - ==================================================
+2025-07-21 03:27:41,054 - INFO - 🤖 Starting trading cycle...
+2025-07-21 03:27:43,240 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 03:27:47,339 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 03:27:51,257 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 03:27:56,983 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 03:28:01,952 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 03:28:02,617 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-21 03:28:02,617 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-21 03:58:27,131 - INFO - 
+==================================================
+2025-07-21 03:58:27,144 - INFO - 🔄 Trading Cycle #20
+2025-07-21 03:58:27,144 - INFO - ==================================================
+2025-07-21 03:58:27,144 - INFO - 🤖 Starting trading cycle...
+2025-07-21 03:58:37,218 - INFO - Retrying request to /openai/v1/chat/completions in 0.419141 seconds
+2025-07-21 03:58:47,669 - INFO - Retrying request to /openai/v1/chat/completions in 0.943152 seconds
+2025-07-21 03:58:58,648 - ERROR - Trading cycle error: Connection error.
+2025-07-21 03:58:58,652 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-21 03:58:58,652 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-21 10:13:16,657 - INFO - 
+==================================================
+2025-07-21 10:13:16,691 - INFO - 🔄 Trading Cycle #21
+2025-07-21 10:13:16,692 - INFO - ==================================================
+2025-07-21 10:13:16,693 - INFO - 🤖 Starting trading cycle...
+2025-07-21 10:13:19,012 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 10:13:52,215 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 10:14:07,254 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 10:14:52,044 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 10:14:57,560 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 10:14:57,563 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-21 10:14:57,563 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-21 10:45:16,921 - INFO - 
+==================================================
+2025-07-21 10:45:16,930 - INFO - 🔄 Trading Cycle #22
+2025-07-21 10:45:16,930 - INFO - ==================================================
+2025-07-21 10:45:16,932 - INFO - 🤖 Starting trading cycle...
+2025-07-21 10:45:19,036 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 10:45:23,779 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 10:45:27,786 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 10:45:33,382 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 10:45:38,545 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 10:45:39,267 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-21 10:45:39,267 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-21 11:16:56,621 - INFO - 
+==================================================
+2025-07-21 11:16:56,668 - INFO - 🔄 Trading Cycle #23
+2025-07-21 11:16:56,669 - INFO - ==================================================
+2025-07-21 11:16:56,669 - INFO - 🤖 Starting trading cycle...
+2025-07-21 11:16:58,935 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 11:17:34,308 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 11:18:05,049 - ERROR - Market analysis error: float division by zero
+2025-07-21 11:18:06,978 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 11:20:05,549 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 11:20:43,524 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 11:20:46,098 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-21 11:20:46,098 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-21 11:52:12,687 - INFO - 
+==================================================
+2025-07-21 11:52:12,722 - INFO - 🔄 Trading Cycle #24
+2025-07-21 11:52:12,724 - INFO - ==================================================
+2025-07-21 11:52:12,724 - INFO - 🤖 Starting trading cycle...
+2025-07-21 11:52:14,858 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 11:54:38,105 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 11:54:43,054 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 11:54:48,443 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 11:54:53,504 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 11:54:54,222 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-21 11:54:54,223 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-21 12:27:52,286 - INFO - 
+==================================================
+2025-07-21 12:27:52,320 - INFO - 🔄 Trading Cycle #25
+2025-07-21 12:27:52,323 - INFO - ==================================================
+2025-07-21 12:27:52,323 - INFO - 🤖 Starting trading cycle...
+2025-07-21 12:28:02,435 - INFO - Retrying request to /openai/v1/chat/completions in 0.452023 seconds
+2025-07-21 12:28:12,914 - INFO - Retrying request to /openai/v1/chat/completions in 0.839509 seconds
+2025-07-21 12:28:23,769 - ERROR - Trading cycle error: Connection error.
+2025-07-21 12:28:23,769 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-21 12:28:23,769 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-21 12:58:23,484 - INFO - 
+==================================================
+2025-07-21 12:58:23,485 - INFO - 🔄 Trading Cycle #26
+2025-07-21 12:58:23,485 - INFO - ==================================================
+2025-07-21 12:58:23,485 - INFO - 🤖 Starting trading cycle...
+2025-07-21 12:58:33,519 - INFO - Retrying request to /openai/v1/chat/completions in 0.443701 seconds
+2025-07-21 12:58:43,983 - INFO - Retrying request to /openai/v1/chat/completions in 0.947139 seconds
+2025-07-21 12:58:54,959 - ERROR - Trading cycle error: Connection error.
+2025-07-21 12:58:54,960 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-21 12:58:54,960 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-21 13:28:54,843 - INFO - 
+==================================================
+2025-07-21 13:28:54,880 - INFO - 🔄 Trading Cycle #27
+2025-07-21 13:28:54,880 - INFO - ==================================================
+2025-07-21 13:28:54,881 - INFO - 🤖 Starting trading cycle...
+2025-07-21 13:28:57,334 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 13:29:29,794 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 13:29:43,271 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 13:31:18,931 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 13:32:13,218 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 13:32:25,318 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-21 13:32:25,318 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-21 14:03:02,266 - INFO - 
+==================================================
+2025-07-21 14:03:02,307 - INFO - 🔄 Trading Cycle #28
+2025-07-21 14:03:02,308 - INFO - ==================================================
+2025-07-21 14:03:02,308 - INFO - 🤖 Starting trading cycle...
+2025-07-21 14:03:05,793 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 14:03:10,468 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 14:03:14,190 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 14:03:20,503 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 14:03:25,407 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 14:03:26,158 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-21 14:03:26,158 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-21 14:34:50,588 - INFO - 
+==================================================
+2025-07-21 14:34:50,628 - INFO - 🔄 Trading Cycle #29
+2025-07-21 14:34:50,629 - INFO - ==================================================
+2025-07-21 14:34:50,630 - INFO - 🤖 Starting trading cycle...
+2025-07-21 14:35:01,178 - INFO - Retrying request to /openai/v1/chat/completions in 0.443026 seconds
+2025-07-21 14:35:11,657 - INFO - Retrying request to /openai/v1/chat/completions in 0.829533 seconds
+2025-07-21 14:35:22,518 - ERROR - Trading cycle error: Connection error.
+2025-07-21 14:35:22,519 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-21 14:35:22,519 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-21 15:05:27,276 - INFO - 
+==================================================
+2025-07-21 15:05:27,297 - INFO - 🔄 Trading Cycle #30
+2025-07-21 15:05:27,299 - INFO - ==================================================
+2025-07-21 15:05:27,299 - INFO - 🤖 Starting trading cycle...
+2025-07-21 15:05:37,407 - INFO - Retrying request to /openai/v1/chat/completions in 0.418965 seconds
+2025-07-21 15:05:47,886 - INFO - Retrying request to /openai/v1/chat/completions in 0.829310 seconds
+2025-07-21 15:05:58,743 - ERROR - Trading cycle error: Connection error.
+2025-07-21 15:05:58,744 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-21 15:05:58,744 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-21 15:35:58,623 - INFO - 
+==================================================
+2025-07-21 15:35:58,644 - INFO - 🔄 Trading Cycle #31
+2025-07-21 15:35:58,645 - INFO - ==================================================
+2025-07-21 15:35:58,646 - INFO - 🤖 Starting trading cycle...
+2025-07-21 15:36:08,718 - INFO - Retrying request to /openai/v1/chat/completions in 0.455654 seconds
+2025-07-21 15:36:19,213 - INFO - Retrying request to /openai/v1/chat/completions in 0.852765 seconds
+2025-07-21 15:36:30,101 - ERROR - Trading cycle error: Connection error.
+2025-07-21 15:36:30,102 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-21 15:36:30,102 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-21 16:06:29,993 - INFO - 
+==================================================
+2025-07-21 16:06:30,018 - INFO - 🔄 Trading Cycle #32
+2025-07-21 16:06:30,019 - INFO - ==================================================
+2025-07-21 16:06:30,019 - INFO - 🤖 Starting trading cycle...
+2025-07-21 16:06:40,144 - INFO - Retrying request to /openai/v1/chat/completions in 0.488930 seconds
+2025-07-21 16:06:50,703 - INFO - Retrying request to /openai/v1/chat/completions in 0.883600 seconds
+2025-07-21 16:07:01,622 - ERROR - Trading cycle error: Connection error.
+2025-07-21 16:07:01,626 - INFO - Cycle result: ❌ Trading cycle failed: Connection error.
+2025-07-21 16:07:01,626 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-21 16:37:02,404 - INFO - 
+==================================================
+2025-07-21 16:37:04,283 - INFO - 🔄 Trading Cycle #33
+2025-07-21 16:37:04,689 - INFO - ==================================================
+2025-07-21 16:37:04,817 - INFO - 🤖 Starting trading cycle...
+2025-07-21 16:37:11,713 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 16:37:43,691 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 16:38:12,350 - ERROR - Market analysis error: float division by zero
+2025-07-21 16:38:14,260 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 16:39:59,140 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 16:40:44,240 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 16:40:56,325 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-21 16:40:56,326 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-21 17:11:59,751 - INFO - 
+==================================================
+2025-07-21 17:11:59,799 - INFO - 🔄 Trading Cycle #34
+2025-07-21 17:11:59,800 - INFO - ==================================================
+2025-07-21 17:11:59,800 - INFO - 🤖 Starting trading cycle...
+2025-07-21 17:12:01,956 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 17:12:17,969 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 17:12:31,213 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 17:12:36,629 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 17:12:43,817 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 17:12:44,493 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-21 17:12:44,493 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-21 17:44:29,534 - INFO - 
+==================================================
+2025-07-21 17:44:29,567 - INFO - 🔄 Trading Cycle #35
+2025-07-21 17:44:29,567 - INFO - ==================================================
+2025-07-21 17:44:29,568 - INFO - 🤖 Starting trading cycle...
+2025-07-21 17:44:31,729 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 17:45:05,159 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 17:45:18,666 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 17:46:59,351 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 17:48:39,950 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 17:49:36,741 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-21 17:49:36,741 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-21 17:54:13,813 - INFO - 🛑 Trading bot stopped by user
+2025-07-21 18:00:05,279 - INFO - 🚀 Starting autonomous trading agent (interval: 30 minutes)
+2025-07-21 18:00:05,280 - INFO - 
+==================================================
+2025-07-21 18:00:05,280 - INFO - 🔄 Trading Cycle #1
+2025-07-21 18:00:05,280 - INFO - ==================================================
+2025-07-21 18:00:05,280 - INFO - 🤖 Starting trading cycle...
+2025-07-21 18:00:07,436 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 18:00:14,848 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 18:00:18,563 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 18:00:34,276 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 18:00:39,546 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 18:00:40,193 - INFO - Executing trade: 249.0000 USDC -> WETH
+2025-07-21 18:00:45,572 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-21 18:00:45,573 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-21 18:22:41,363 - INFO - 🛑 Trading bot stopped by user
+2025-07-21 19:06:01,368 - INFO - 🚀 Starting autonomous trading agent (interval: 30 minutes)
+2025-07-21 19:06:01,369 - INFO - 
+==================================================
+2025-07-21 19:06:01,369 - INFO - 🔄 Trading Cycle #1
+2025-07-21 19:06:01,369 - INFO - ==================================================
+2025-07-21 19:06:01,369 - INFO - 🤖 Starting trading cycle...
+2025-07-21 19:06:03,288 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 19:06:08,000 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 19:06:11,343 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 19:06:16,455 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 19:06:21,730 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 19:06:22,425 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-21 19:06:22,426 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-21 19:38:18,990 - INFO - 
+==================================================
+2025-07-21 19:38:19,059 - INFO - 🔄 Trading Cycle #2
+2025-07-21 19:38:19,063 - INFO - ==================================================
+2025-07-21 19:38:19,063 - INFO - 🤖 Starting trading cycle...
+2025-07-21 19:38:26,763 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 19:38:36,064 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 19:38:48,692 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 19:39:05,600 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 19:39:10,507 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 19:39:23,326 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-21 19:39:23,327 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-21 19:52:16,474 - INFO - 🛑 Trading bot stopped by user
